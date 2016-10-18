@@ -1,0 +1,23 @@
+html {
+	margin-left: 45%;
+	margin-top: 40px;
+}
+
+button {
+	height: 61px;
+	width: 136px;
+	margin: auto;
+	border-radius: 10px;
+	background: #2B96DD;
+	color: white;
+	font-size: 20px;
+	border-left: 0;
+	border-right: 0;
+	border-top: 0;
+	border-bottom: 8px solid #227FBB;
+	outline: none;
+}
+
+button:active {
+	border-bottom: 0;
+}
